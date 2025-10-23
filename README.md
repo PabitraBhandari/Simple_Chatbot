@@ -12,7 +12,7 @@ The chatbot generates conversational responses using predefined training data an
 ## Setup Instructions
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/chatbot_project.git
+   clone the repository chatbot_project
    cd chatbot_project
    ```
 
@@ -65,13 +65,3 @@ chatbot_project/
 - ChatterBot 1.2.2
 - spaCy 3.5.4
 - SQLite (default database)
-
-## Deliverables
-- Python source code
-- requirements.txt (manifest)
-- Screenshot of chatbot interaction
-- GitHub repository link
-
-Author: Crist Bhandari  
-Course: Advanced Artificial Intelligence (MSCS-633-M50)  
-Term: Fall 2025
